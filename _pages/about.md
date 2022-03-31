@@ -17,6 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Hi! I am Maxine and I am a data scientist currently working at [Arup](https://www.arup.com/) working to embed AI and ML in the built environment. I studied Social Data Science at [Oxford Internet Institute](https://www.oii.ox.ac.uk/) at the University of Oxford. Prior to that, I studied in London at University College London [(UCL)](https://www.ucl.ac.uk/) learning information management for Business. 
+
+I am from Indonesia and moved to London in 2017 and have been living here since.
+
+---- Initial taxt ----
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
